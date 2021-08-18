@@ -9,6 +9,13 @@ export CLIENT_SECRET="your client secret"
 
 The following authorization services are provided as examples to get a better idea of how to use this library on some of the most common use cases:
 
+### Forge
+
+See the `./forge.js` module as a reference implementation or execute the example with:
+
+```bash
+npm run start:forge
+```
 
 ### Microsoft
 
